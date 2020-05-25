@@ -1,0 +1,7 @@
+The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings. It is widely used to define the constraint on strings such as password and email validation. After learning Java regex tutorial, you will be able to test your regular expressions by the Java Regex Tester Tool.
+
+The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings. It is widely used to define the constraint on strings such as password and email validation. After learning Java regex tutorial, you will be able to test your regular expressions by the Java Regex Tester Tool.
+
+The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings. It is widely used to define the constraint on strings such as password and email validation. After learning Java regex tutorial, you will be able to test your regular expressions by the Java Regex Tester Tool.
+
+The Java Regex or Regular Expression is an API to define a pattern for searching or manipulating strings. It is widely used to define the constraint on strings such as password and email validation. After learning Java regex tutorial, you will be able to test your regular expressions by the Java Regex Tester Tool.
